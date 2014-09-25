@@ -17,3 +17,7 @@ app.use(function *(){
 });
 
 app.listen(3000);
+// syntatic sugar for
+// http.createServer(app.callback()).listen(3000);
+app.listen(30001);
+// can run two servers at once
