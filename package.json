@@ -1,0 +1,14 @@
+{
+  "name": "koa-test-app",
+  "version": "0.0.0",
+  "description": "checking out koa",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Ji Ho Koo <jihokoo@gmail.com> (http://jihokoo.com/)",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^0.12.1"
+  }
+}
